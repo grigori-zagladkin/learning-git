@@ -1,5 +1,5 @@
-git clone - клонировать репозиторий
-git add - добавить файлы в локальный репозиторий
+git clone - клонировать <br />
+git add - добавить файлы в локальный репозиторий <br />
 git commit - сохранить изменения
 git checkout branch_name - переключится на ветку
 git branch branch_name - создать ветку
