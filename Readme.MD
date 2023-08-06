@@ -63,7 +63,12 @@
 <h2 id="4">4. Частоиспользуемые команды.</h2>
 <ul>
     <li><h3>git clone</h3></li>
-<ul>
+    <li>
+        <h3>git status</h3>
+        <p>
+        </p>
+    </li>
+</ul>
 <strong>git clone</strong> - клонировать. <br />
 <strong>git add</strong> - добавить файлы в локальный репозиторий <br />
 <strong>git commit</strong> - сохранить изменения <br />
