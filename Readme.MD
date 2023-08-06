@@ -17,7 +17,7 @@
         <ul>
             <li>
                 <a href="#4_git clone">git clone</a>
-            <li>
+            </li>
             <li>
                 <a href="#4_git clone">git status</a>
             </li>
