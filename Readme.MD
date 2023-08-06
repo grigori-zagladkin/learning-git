@@ -1,4 +1,8 @@
 <h1>Курс по git</h1>
+<h2>Что такое git и зачем он нужен?</h2>
+<p>
+    Git - распределённая система управления версиями.(<a href="https://ru.wikipedia.org/wiki/Git">wiki</a>)
+</p>
 <strong>git clone</strong> - клонировать. <br />
 <strong>git add</strong> - добавить файлы в локальный репозиторий <br />
 <strong>git commit</strong> - сохранить изменения <br />
