@@ -1,4 +1,4 @@
-git clone - клонировать <br />
+<strong>git clone</strong> - клонировать <br />
 git add - добавить файлы в локальный репозиторий <br />
 git commit - сохранить изменения <br />
 git checkout branch_name - переключится на ветку <br />
