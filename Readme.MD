@@ -37,7 +37,6 @@
                 <a href="#4_git clone">git branch</a>
             </li>
         </ul>
-<ul>
     <li>
         <a href="#5">5. Команды, которые могут использоваться.</a>
     </li>
